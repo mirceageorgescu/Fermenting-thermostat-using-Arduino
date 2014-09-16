@@ -8,5 +8,9 @@ Arduino project that allowed me to control the fermentation temperature of my ho
 - [TMP 102 Temperature Sensor](http://www.robofun.ro/senzori/vreme/senzor_temperatura_tmp102)
 - [40A 250V SSR](http://www.dx.com/p/ssr-40aa-solid-state-relay-265962#.VBg_PmSSwe0)
 
+## Showoff
+
+![Thermostat build showoff](https://raw.githubusercontent.com/mirceageorgescu/Fermenting-thermostat-using-Arduino/master/showoff.jpg)
+
 ## Schematics
-![schematics](https://raw.githubusercontent.com/mirceageorgescu/Fermenting-thermostat-using-Arduino/master/schematics.jpg)
+![Thermostat schematics](https://raw.githubusercontent.com/mirceageorgescu/Fermenting-thermostat-using-Arduino/master/schematics.jpg)
